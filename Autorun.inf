@@ -1,6 +1,6 @@
 [autorun]
-open=Setupx.exe
-icon=Nero.ico
+open=tivo-simulator.exe
+icon=icon.png
 
 
 
